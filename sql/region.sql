@@ -33,7 +33,7 @@ CREATE TABLE IF NOT EXISTS `region` (
 -- Contenu de la table `region`
 --
 
-INSERT INTO `region` (`id`, `state`) VALUES
+INSERT INTO `app_state` (`id`, `state`) VALUES
 (1, 'Tanger-Tétouan-Al Hoceïma'),
 (2, 'l''Oriental'),
 (3, 'Fès-Meknès'),
