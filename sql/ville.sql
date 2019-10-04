@@ -33,7 +33,7 @@ CREATE TABLE IF NOT EXISTS `ville` (
 -- Contenu de la table `ville`
 --
 
-INSERT INTO `ville` (`id`, `city`, `state`) VALUES
+INSERT INTO `app_city` (`id`, `city`, `state`) VALUES
 (1, 'Aïn Harrouda', 6),
 (2, 'Ben Yakhlef', 6),
 (3, 'Bouskoura', 6),
